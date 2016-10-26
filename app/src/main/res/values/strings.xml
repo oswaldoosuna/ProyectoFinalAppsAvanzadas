@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Proyecto Final Apps Avanzadas</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Banner de Publicidad-->
+    <string name="id_banner">ca-app-pub-9056845653679570/7560476049</string>
+    <!--Identificador de Facebook-->
+    <string name="app_id">1185367528183628</string>
+</resources>
